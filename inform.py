@@ -1,5 +1,3 @@
-#學號: 107213067
-#姓名: 鍾明智
 def inform(): #main statement
     n = int(input()) #input n value
     list1 = list() #create list for id name and salary
